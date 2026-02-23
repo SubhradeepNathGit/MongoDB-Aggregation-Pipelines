@@ -1,7 +1,7 @@
 {
-  "name": "mongodb-aggregation-test",
+  "name": "mongoDB aggregation pipeline",
   "version": "1.0.0",
-  "description": "MongoDB Aggregation Pipeline Class Test",
+  "description": "MongoDB Aggregation Pipeline",
   "main": "app.js",
   "scripts": {
     "start": "nodemon app.js"
